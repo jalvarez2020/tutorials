@@ -33,7 +33,7 @@
     </dependencies>
 
     <properties>
-        <spark-core.version>2.5.4</spark-core.version>
+        <spark-core.version>2.9.1</spark-core.version>
     </properties>
 
 </project>
