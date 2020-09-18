@@ -117,7 +117,7 @@
     <properties>
 
         <!-- Spring -->
-        <org.springframework.version>5.0.2.RELEASE</org.springframework.version>
+        <org.springframework.version>5.0.18.RELEASE</org.springframework.version>
         <spring-boot.version>1.5.10.RELEASE</spring-boot.version>
 
         <!-- persistence -->
@@ -131,7 +131,7 @@
         <hibernate-validator.version>6.0.10.Final</hibernate-validator.version>
         <jstl.version>1.2</jstl.version>
         <javax.servlet.version>3.1.0</javax.servlet.version>
-        <jackson.version>2.9.6</jackson.version>
+        <jackson.version>2.9.10.6</jackson.version>
 
         <!-- util -->
         <guava.version>19.0</guava.version>
