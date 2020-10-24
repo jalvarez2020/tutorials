@@ -132,7 +132,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>27.1-jre</version>
+            <version>30.0-android</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-collections-immutable -->
         <dependency>
