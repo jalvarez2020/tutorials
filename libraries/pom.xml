@@ -897,7 +897,7 @@
         <spring.version>4.3.8.RELEASE</spring.version>
         <spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
         <HikariCP.version>2.6.3</HikariCP.version>
-        <quartz.version>2.3.0</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <jool.version>0.9.12</jool.version>
         <jmh.version>1.19</jmh.version>
         <groovy.version>2.5.2</groovy.version>
