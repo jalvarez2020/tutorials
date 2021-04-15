@@ -13,7 +13,7 @@
         <groupId>io.spring.platform</groupId>
         <artifactId>platform-bom</artifactId>
         <version>Athens-RELEASE</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <dependencies>
@@ -604,7 +604,7 @@
     </dependencyManagement>
 
     <properties>
-        <roo.version>2.0.0.RC1</roo.version>
+        <roo.version>2.0.0.RELEASE</roo.version>
         <java.product.version>8</java.product.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <aspectj.plugin.version>1.8</aspectj.plugin.version>
