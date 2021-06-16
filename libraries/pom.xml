@@ -862,7 +862,7 @@
         <vavr.version>0.9.0</vavr.version>
         <geotools.version>15.2</geotools.version>
         <hirondelle-date4j.version>1.5.1</hirondelle-date4j.version>
-        <retrofit.version>2.3.0</retrofit.version>
+        <retrofit.version>2.5.0</retrofit.version>
         <joda-time.version>2.10</joda-time.version>
         <hirondelle-date4j.version>1.5.1</hirondelle-date4j.version>
         <protonpack.version>1.15</protonpack.version>
@@ -874,7 +874,7 @@
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <kafka.version>2.0.0</kafka.version>
         <smooks.version>1.7.0</smooks.version>
-        <docker.version>3.0.14</docker.version>
+        <docker.version>3.1.0</docker.version>
         <async.http.client.version>2.2.0</async.http.client.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
         <opencsv.version>4.1</opencsv.version>
@@ -900,7 +900,7 @@
         <quartz.version>2.3.0</quartz.version>
         <jool.version>0.9.12</jool.version>
         <jmh.version>1.19</jmh.version>
-        <groovy.version>2.5.2</groovy.version>
+        <groovy.version>2.5.14</groovy.version>
         <noexception.version>1.1.0</noexception.version>
         <logging-interceptor.version>3.9.0</logging-interceptor.version>
         <yarg.version>2.0.4</yarg.version>
