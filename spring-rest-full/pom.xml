@@ -286,7 +286,7 @@
         <xstream.version>1.4.9</xstream.version>
 
         <!-- util -->
-        <guava.version>19.0</guava.version>
+        <guava.version>30.0-android</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <javassist.version>3.25.0-GA</javassist.version>
 
