@@ -66,7 +66,7 @@
         <!-- util -->
         <commons-lang3.version>3.5</commons-lang3.version>
         <commons-collections4.version>4.1</commons-collections4.version>
-        <joda-time.version>2.9.6</joda-time.version>
+        <joda-time.version>2.10.14</joda-time.version>
     </properties>
 
 </project>
